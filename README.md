@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyushCodess
 - 👀 I’m interested in learning new languages 
 - 🌱 I’m currently learning c, c++, python
-- 💞️ I’m looking to collaborate on any mini project on which i can valuable input
+- 💞️ I’m looking to collaborate on any mini project on which i can provide valuable input
 - 📫 How to reach me ayushcoding2022@gmail.com
 
 <!---
