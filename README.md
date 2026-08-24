@@ -1,39 +1,48 @@
-Hi, I’m Ayush
+# Hi, I’m Ayush 👋
 
--> BTech CSE (AI & Data Science) student
--> Passionate about Software Development, Machine Learning & Problem Solving
--> Aspiring to build impactful tech and secure a high-growth role in the tech industry
+→ B.Tech CSE (AI & Data Science) graduate
+→ Focused on **AI, LLM Engineering & Python Development**
+→ Interested in building practical AI applications and understanding the systems behind them
 
-About Me -->
+## About Me -->
 
--> Currently exploring AI, Machine Learning, and Full-Stack Development
--> Strong foundation in Data Structures & Algorithms
--> Enjoy building real-world projects and learning by doing
--> Actively preparing for technical interviews & coding challenges
+→ Currently learning and building with **LLMs, RAG, Generative AI, and AI application development**
+→ Strong foundation in **Python, Data Structures & Algorithms, and software development**
+→ Enjoy building real-world projects and learning by implementing concepts from the ground up
+→ Continuously improving my understanding of **LLM systems, backend development, and AI engineering**
 
-Tech Stack -->
-Languages
-C | C++ | Java | Python | SQL | C#
+## Tech Stack -->
 
-Frameworks & Libraries
-NumPy | Pandas | Matplotlib | Scikit-learn
-Flask | Tkinter | ASP.NET MVC
+**Languages**
+Python | C | C++ | Java | SQL
 
-Tools & Platforms
-Git | GitHub | VS Code | Visual Studio |
-Jupyter Notebook | Docker | SQL Server
+**AI / LLM**
+RAG | Embeddings | Semantic Search | Prompt Engineering | LLM APIs | Generative AI
 
-Current Focus -->
+**Frameworks & Libraries**
+Gradio | Chroma | Sentence Transformers | NumPy | Pandas | Scikit-learn | Flask
 
-✔ Strengthening DSA & Problem Solving
-✔ Building resume-worthy projects
-✔ Preparing for technical interviews
-✔ Improving system design & backend skills
+**Databases & Tools**
+SQLite | SQL Server | Git | GitHub | VS Code | Jupyter Notebook | Docker
 
--> How to reach me ayushcoding2022@gmail.com
+## Current Projects -->
 
-⭐ If you find my work interesting, feel free to star my repositories!
-<!---
-AyushCodess/AyushCodess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+→ **AI Travel & Bus Booking Assistant** — Building a modular, database-backed travel application with Python, SQLite, Gradio, service-based architecture, and automated testing.
+
+→ **Retrieval-Augmented Generation Pipeline** — Building an end-to-end RAG pipeline using Chroma, `all-MiniLM-L12-v2`, OpenRouter, and GPT-4o-mini.
+
+→ **AI Fitness Planning Agent** — Developed an LLM-powered application for generating personalized gym and home workout plans using Gradio.
+
+## Current Focus -->
+
+✔ Deepening my understanding of **LLM Engineering & RAG**
+✔ Building practical AI applications with **Python**
+✔ Learning **tool calling, agents, evaluation, and LLM application architecture**
+✔ Strengthening software engineering and backend fundamentals
+✔ Building projects that demonstrate real technical understanding rather than just API usage
+
+## How to reach me -->
+
+📧 [ayushcoding2022@gmail.com](mailto:ayushcoding2022@gmail.com)
+
+⭐ If you find my work interesting, feel free to explore and star my repositories!
