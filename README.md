@@ -35,11 +35,11 @@ SQLite | SQL Server | Git | GitHub | VS Code | Jupyter Notebook | Docker
 
 ## Current Focus -->
 
-✔ Deepening my understanding of **LLM Engineering & RAG**
-✔ Building practical AI applications with **Python**
-✔ Learning **tool calling, agents, evaluation, and LLM application architecture**
-✔ Strengthening software engineering and backend fundamentals
-✔ Building projects that demonstrate real technical understanding rather than just API usage
+ Deepening my understanding of **LLM Engineering & RAG** ||
+ Building practical AI applications with **Python** ||
+ Learning **tool calling, agents, evaluation, and LLM application architecture** ||
+ Strengthening software engineering and backend fundamentals ||
+ Building projects that demonstrate real technical understanding rather than just API usage ||
 
 ## How to reach me -->
 
